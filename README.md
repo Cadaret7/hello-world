@@ -1,4 +1,4 @@
 # hello-world
 
 International earth and water scientist
-I am learning Groovy, P
+I am learning Groovy, Python, and R
