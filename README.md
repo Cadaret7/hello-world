@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+International earth and water scientist
+I am learning Groovy, P
